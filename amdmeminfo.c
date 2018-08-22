@@ -221,7 +221,7 @@ static gputype_t gputypes[] = {
     { 0x1002, 0x6863, 0, 0, "Radeon Vega Frontier Edition", CHIP_VEGA10},
     /* Fury/Nano */
     { 0x1002, 0x7300, 0, 0, "Radeon R9 Fury/Nano/X", CHIP_FIJI},
-    { 0x1002, 0x7300, 0, 0xc8, "Radeon R9 Fury/Nano/X", CHIP_FIJI},
+    { 0x1002, 0x7300, 0, 0xc8, "Radeon R9 Fury X", CHIP_FIJI},
     { 0x1002, 0x7300, 0, 0xc9, "Radeon R9 Fury/Nano/X", CHIP_FIJI},
     { 0x1002, 0x7300, 0, 0xca, "Radeon R9 Fury/Nano/X", CHIP_FIJI},
     { 0x1002, 0x7300, 0, 0xcb, "Radeon R9 Fury", CHIP_FIJI},
